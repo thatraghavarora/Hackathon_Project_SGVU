@@ -54,7 +54,7 @@ Traditional SMS OTP-based authentication has multiple issues:
    * If **OTP or number is wrong** → ApnaAuth replies **Invalid** and denies access
 9. User opens the secure link and gets logged in via a **validated session**
 
-⏱️ Total time: **Under 3 seconds**
+⏱️ Total time: **Under 3-7 seconds**
 
 ---
 
