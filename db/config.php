@@ -30,9 +30,9 @@ if (!defined('APP_ROOT')) {
  * ------------------------------------------------------------------------ */
 
 $DB_HOST = 'localhost';        // usually 'localhost' on Hostinger
-$DB_NAME = 'u306475203_Authencator';    // TODO: change this to your DB name
-$DB_USER = 'u306475203_Otpless1';     // TODO: change this to your DB user
-$DB_PASS = 'Otpless@14777'; // TODO: change this to your DB password
+$DB_NAME = '#';    // TODO: change this to your DB name
+$DB_USER = '#';     // TODO: change this to your DB user
+$DB_PASS = '#'; // TODO: change this to your DB password
 $DB_CHARSET = 'utf8mb4';
 
 /**
